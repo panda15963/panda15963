@@ -1,42 +1,120 @@
-# 안녕하세요! 👋
+# Hello! 👋 | 안녕하세요! 👋
 
-## 🚀 소개
-- 개발자 panda15963입니다
-- 관심 분야: [여기에 본인의 관심사 작성]
+[English](#english) | [한국어](#한국어)
 
-## 💻 **Tech Stack**
+---
 
-### **🧩 Languages**
+## English
+
+### 🚀 Introduction
+- I'm Minseok Choi, a developer.
+- Interests: Backend Development, Web Application Development, Database Design
+
+### 🌱 Current Activities
+- 🔭 Currently working on: [F1Community](https://github.com/panda15963/F1Community)
+- 🌱 Learning: Spring Boot, Java
+- 💬 Feel free to reach out anytime!
+
+### 💻 **Tech Stack**
+
+#### **🧩 Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### **🧰 Frameworks & Libraries**
+#### **🧰 Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### **🗃️ Databases**
+#### **🗃️ Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### **🧪 Tools**
+#### **🧪 Tools**
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### **🖥️ IDE**
+#### **🖥️ IDE**
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## 📊 GitHub 통계
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=panda15963&show_icons=true&theme=radical)
+### 🚀 Featured Projects
+- **[Resume](https://github.com/panda15963/resume)** - Resume management project
+- **[AI Image](https://github.com/panda15963/aiimage)** - AI image generation project
 
-## 📫 연락처
-- 이메일: [본인 이메일]
-- 블로그: [본인 블로그 링크]
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panda15963&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=panda15963&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=panda15963&theme=radical" />
+</p>
+
+### 📫 Contact
+- 📧 Email: seok7521@gmail.com
+- 💼 LinkedIn: [View Profile](https://www.linkedin.com/in/minseok-choi-ba802924a/)
+
+---
+
+## 한국어
+
+### 🚀 소개
+- 개발자 최민석입니다.
+- 관심 분야: 백엔드 개발, 웹 애플리케이션 개발, 데이터베이스 설계
+
+### 🌱 현재 활동
+- 🔭 현재 작업 중인 프로젝트: [F1Community](https://github.com/panda15963/F1Community)
+- 🌱 학습 중인 기술: Spring Boot, Java
+- 💬 문의사항이 있으시면 언제든 연락주세요!
+
+### 💻 **기술 스택**
+
+#### **🧩 언어**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+#### **🧰 프레임워크 & 라이브러리**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+#### **🗃️ 데이터베이스**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+#### **🧪 도구**
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+#### **🖥️ IDE**
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### 🚀 주요 프로젝트
+- **[Resume](https://github.com/panda15963/resume)** - 이력서 관리 프로젝트
+- **[AI Image](https://github.com/panda15963/aiimage)** - AI 이미지 생성 프로젝트
+
+### 📫 연락처
+- 📧 이메일: seok7521@gmail.com
+- 💼 LinkedIn: [프로필 보기](https://www.linkedin.com/in/minseok-choi-ba802924a/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=panda15963&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
