@@ -22,13 +22,7 @@
 
 ### 🚀 Introduction
 - I'm **Minseok Choi**, a **Frontend Developer** with 3+ years of experience in web development and QA
-- 🎯 **Professional Experience**: 
-  - Frontend development with ReactJS & Next.js at Hyundai AutoEver project
-  - QA automation for navigation systems (G80, GV80, IONIQ, K-series vehicles)
-  - Achieved 30% page loading speed improvement through legacy code refactoring
 - 🌟 **Core Strengths**: User-centric development, problem-solving mindset, and meticulous attention to detail
-- 🎓 **Education**: Computer Science at Douglas College(Taking breaks) + AI major at Korea National Open University
-- 🌍 **Global Experience**: 4+ years studying in Canada, business-level English proficiency
 - 📚 **Continuous Learning**: Always exploring new technologies and best practices in frontend development
 
 ### 🌱 Current Activities
@@ -69,18 +63,39 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 🚀 Featured Projects
-- **[F1Community](https://github.com/panda15963/F1Community)** - Formula 1 community platform with modern web technologies
-- **[Resume](https://github.com/panda15963/resume)** - Interactive resume management system
-- **[AI Image](https://github.com/panda15963/aiimage)** - AI-powered image generation application
+## 💻 Projects
 
-### 💼 Professional Experience
-- **Frontend Developer** at **Modiem Co.** (2024.06 - 2025.03)
-  - Developed responsive UI using ReactJS & Next.js for Hyundai AutoEver project
-  - Improved page loading speed by 30% through legacy code refactoring
-- **QA Engineer** at **Modiem Co.** (2022.05 - 2024.05)
-  - Conducted comprehensive testing for vehicle navigation systems
-  - Managed bug reporting and verification using Jira system
+### 📌 [Resume](https://github.com/panda15963/resume)
+- **Period:** Apr 2025
+- **Description:** A GitHub-based resume page to effectively manage and publish my personal resume.
+- **Tech Stack:** HTML, CSS, JavaScript, TypeScript, Next.js
+- **Key Features:**
+  - Structured resume including self-introduction, tech stack, and projects
+  - Public deployment via GitHub Pages
+  - Responsive web design
+
+---
+
+### 📌 [aiimage](https://github.com/panda15963/aiimage)
+- **Period:** Mar 2024 ~ Oct 2024
+- **Description:** An AI image generation project with Metamask wallet integration for potential NFT issuance.
+- **Tech Stack:** TypeScript, Node.js, Metamask API, Next.js
+- **Key Features:**
+  - AI image generation based on user input
+  - Integration with Metamask for wallet connection
+  - Ability to utilize generated images for NFT minting
+
+---
+
+### 📌 [F1Community](https://github.com/panda15963/F1Community)
+- **Period:** Jul 2025 ~ Ongoing
+- **Description:** A full-stack web service integrating F1 news, schedule viewing, and community features.
+- **Tech Stack:** Next.js, Tailwind CSS, Spring Boot, MySQL
+- **Key Features:**
+  - Crawling and listing the latest F1 news
+  - Race schedule calendar
+  - User community board and comments
+  - JWT authentication and deployment to personal Ubuntu server (planned)
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -109,13 +124,7 @@
 
 ### 🚀 소개
 - **3년+ 경력의 프론트엔드 개발자 최민석**입니다
-- 🎯 **주요 경력**: 
-  - 현대오토에버 프로젝트에서 ReactJS & Next.js를 활용한 프론트엔드 개발
-  - 차량용 네비게이션 시스템(G80, GV80, 아이오닉, K시리즈) QA 자동화 업무
-  - 레거시 코드 리팩토링을 통한 페이지 로딩 속도 30% 개선 달성
 - 🌟 **핵심 강점**: 사용자 중심 개발, 문제 해결 마인드, 꼼꼼한 품질 관리
-- 🎓 **학력**: Douglas College 컴퓨터사이언스과(휴학) + 방송통신대 인공지능학과 재학
-- 🌍 **글로벌 경험**: 캐나다 4년+ 유학, 비즈니스 수준 영어 소통 가능
 - 📚 **지속적 성장**: 새로운 프론트엔드 기술과 사용자 경험 개선에 지속적으로 학습
 
 ### 🌱 현재 활동
@@ -156,18 +165,39 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 🚀 주요 프로젝트
-- **[F1Community](https://github.com/panda15963/F1Community)** - 최신 웹 기술을 활용한 포뮬러 1 커뮤니티 플랫폼
-- **[Resume](https://github.com/panda15963/resume)** - 인터랙티브 이력서 관리 시스템
-- **[AI Image](https://github.com/panda15963/aiimage)** - AI 기반 이미지 생성 애플리케이션
+## 💻 프로젝트
 
-### 💼 실무 경험
-- **㈜모디엠 프론트엔드 개발자** (2024.06 - 2025.03)
-  - 현대오토에버 프로젝트에서 ReactJS & Next.js를 활용한 반응형 UI 개발
-  - 레거시 코드 리팩토링을 통한 페이지 로딩 속도 30% 개선
-- **㈜모디엠 QA 엔지니어** (2022.05 - 2024.05)
-  - 차량용 네비게이션 시스템 종합 테스트 수행
-  - Jira 시스템을 활용한 버그 리포팅 및 검증 업무
+### 📌 [Resume](https://github.com/panda15963/resume)
+- **기간:** 2025.04
+- **설명:** 개인 이력서를 효과적으로 관리하고 공개할 수 있는 GitHub 기반 resume 페이지
+- **기술 스택:** HTML, CSS, JavaScript, Typescript, Next.js
+- **주요 기능:**
+  - 자기소개, 기술스택, 프로젝트 등 이력서 구성
+  - GitHub Pages 배포를 통한 공개 이력서
+  - 반응형 웹 지원
+
+---
+
+### 📌 [aiimage](https://github.com/panda15963/aiimage)
+- **기간:** 2024.03 ~ 2024.10
+- **설명:** AI 이미지 생성 및 Metamask 지갑 연동을 통한 NFT 발행 가능 프로젝트
+- **기술 스택:** Typescript, Node.js, Metamask API, Next.js
+- **주요 기능:**
+  - 사용자 입력 기반 AI 이미지 생성
+  - Metamask 연동 및 지갑 연결
+  - 생성된 이미지를 NFT 발행에 활용 가능
+
+---
+
+### 📌 [F1Community](https://github.com/panda15963/F1Community)
+- **기간:** 2025.07 ~ 진행중
+- **설명:** F1 뉴스, 일정 확인, 커뮤니티 기능을 통합한 풀스택 웹 서비스
+- **기술 스택:** Next.js, Tailwind CSS, Spring Boot, MySQL
+- **주요 기능:**
+  - 최신 F1 뉴스 크롤링 및 리스트 제공
+  - 레이스 일정 캘린더 기능
+  - 사용자 커뮤니티 게시판 및 댓글
+  - JWT 인증, 개인 서버(Ubuntu) 배포 예정
 
 ### 📊 깃헙 통계
 <p align="center">
