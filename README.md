@@ -1,10 +1,19 @@
 # Hello! 👋 | 안녕하세요! 👋
 
-[English](#english) | [한국어](#한국어)
+<div align="center">
+  <a href="#english" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/English-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="English"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#한국어" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/한국어-FF6B6B?style=for-the-badge&logo=google-translate&logoColor=white" alt="한국어"/>
+  </a>
+</div>
 
----
+<br/>
+<div id="english">
 
-## English
+## 🇺🇸 English
 
 ### 🚀 Introduction
 - I'm Minseok Choi, a developer.
@@ -65,9 +74,13 @@
 - 📧 Email: seok7521@gmail.com
 - 💼 LinkedIn: [View Profile](https://www.linkedin.com/in/minseok-choi-ba802924a/)
 
+</div>
+
 ---
 
-## 한국어
+<div id="한국어">
+
+## 🇰🇷 한국어
 
 ### 🚀 소개
 - 개발자 최민석입니다.
@@ -115,6 +128,24 @@
 - 📧 이메일: seok7521@gmail.com
 - 💼 LinkedIn: [프로필 보기](https://www.linkedin.com/in/minseok-choi-ba802924a/)
 
+</div>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=panda15963&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+
+#english:target ~ #한국어 {
+  display: none;
+}
+
+#한국어:target ~ #english {
+  display: none;
+}
+</style>
