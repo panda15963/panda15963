@@ -16,7 +16,7 @@
 
 <div id="english">
 
-## 🇺🇸 English
+## English
 
 ### 🚀 Introduction
 - I'm **Minseok Choi**, a **Frontend Developer** with 3+ years of experience in web development and QA
@@ -100,7 +100,7 @@
 
 <div id="한국어">
 
-## 🇰🇷 한국어
+## 한국어
 
 ### 🚀 소개
 - **3년+ 경력의 프론트엔드 개발자 최민석**입니다
