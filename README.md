@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:8e44ad&height=200&section=header&text=Minseok%20Choi's%20GitHub&fontSize=40&fontColor=ffffff" width="100%"/>
+
 # Hello! 👋 | 안녕하세요! 👋
 
 <div align="center">
@@ -94,8 +96,8 @@
 </p>
 
 ### 📫 Contact
-- 📧 Email: seok7521@gmail.com
-- 💼 LinkedIn: [View Profile](https://www.linkedin.com/in/minseok-choi-ba802924a/)
+- [![Gmail Badge](https://img.shields.io/badge/seok7521@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seok7521@gmail.com)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com)
 
 </div>
 
@@ -181,27 +183,8 @@
 </p>
 
 ### 📫 연락처
-- 📧 이메일: seok7521@gmail.com
-- 💼 LinkedIn: [프로필 보기](https://www.linkedin.com/in/minseok-choi-ba802924a/)
+- [![Gmail Badge](https://img.shields.io/badge/seok7521@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seok7521@gmail.com)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:4facfe&height=100&section=footer" width="100%"/>
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=panda15963&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
-<style>
-html {
-  scroll-behavior: smooth;
-}
-
-#english:target ~ #한국어 {
-  display: none;
-}
-
-#한국어:target ~ #english {
-  display: none;
-}
-</style>
