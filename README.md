@@ -169,7 +169,7 @@
   - 차량용 네비게이션 시스템 종합 테스트 수행
   - Jira 시스템을 활용한 버그 리포팅 및 검증 업무
 
-### 📊 깃헙 통
+### 📊 깃헙 통계
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panda15963&layout=compact&theme=radical" />
 </p>
