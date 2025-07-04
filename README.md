@@ -25,7 +25,7 @@
   - QA automation for navigation systems (G80, GV80, IONIQ, K-series vehicles)
   - Achieved 30% page loading speed improvement through legacy code refactoring
 - 🌟 **Core Strengths**: User-centric development, problem-solving mindset, and meticulous attention to detail
-- 🎓 **Education**: Computer Science (Canada) + AI major at Korea National Open University
+- 🎓 **Education**: Computer Science at Douglas College(Taking breaks) + AI major at Korea National Open University
 - 🌍 **Global Experience**: 4+ years studying in Canada, business-level English proficiency
 - 📚 **Continuous Learning**: Always exploring new technologies and best practices in frontend development
 
@@ -109,7 +109,7 @@
   - 차량용 네비게이션 시스템(G80, GV80, 아이오닉, K시리즈) QA 자동화 업무
   - 레거시 코드 리팩토링을 통한 페이지 로딩 속도 30% 개선 달성
 - 🌟 **핵심 강점**: 사용자 중심 개발, 문제 해결 마인드, 꼼꼼한 품질 관리
-- 🎓 **학력**: 캐나다 대학 컴퓨터사이언스과(휴학) + 방송통신대 인공지능학과 재학
+- 🎓 **학력**: Douglas College 컴퓨터사이언스과(휴학) + 방송통신대 인공지능학과 재학
 - 🌍 **글로벌 경험**: 캐나다 4년+ 유학, 비즈니스 수준 영어 소통 가능
 - 📚 **지속적 성장**: 새로운 프론트엔드 기술과 사용자 경험 개선에 지속적으로 학습
 
