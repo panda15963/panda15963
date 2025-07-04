@@ -11,18 +11,29 @@
 </div>
 
 <br/>
+
+---
+
 <div id="english">
 
 ## 🇺🇸 English
 
 ### 🚀 Introduction
-- I'm Minseok Choi, a developer.
-- Interests: Backend Development, Web Application Development, Database Design
+- I'm **Minseok Choi**, a **Frontend Developer** with 3+ years of experience in web development and QA
+- 🎯 **Professional Experience**: 
+  - Frontend development with ReactJS & Next.js at Hyundai AutoEver project
+  - QA automation for navigation systems (G80, GV80, IONIQ, K-series vehicles)
+  - Achieved 30% page loading speed improvement through legacy code refactoring
+- 🌟 **Core Strengths**: User-centric development, problem-solving mindset, and meticulous attention to detail
+- 🎓 **Education**: Computer Science (Canada) + AI major at Korea National Open University
+- 🌍 **Global Experience**: 4+ years studying in Canada, business-level English proficiency
+- 📚 **Continuous Learning**: Always exploring new technologies and best practices in frontend development
 
 ### 🌱 Current Activities
-- 🔭 Currently working on: [F1Community](https://github.com/panda15963/F1Community)
-- 🌱 Learning: Spring Boot, Java
-- 💬 Feel free to reach out anytime!
+- 🔭 Currently working on: [F1Community](https://github.com/panda15963/F1Community) - Formula 1 community platform
+- 🌱 Learning: Advanced TypeScript, Clean Code practices, Design Systems
+- 🎯 Goal: Becoming a user-experience focused frontend developer
+- 💬 Open to collaboration and always eager to learn from fellow developers!
 
 ### 💻 **Tech Stack**
 
@@ -54,8 +65,17 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### 🚀 Featured Projects
-- **[Resume](https://github.com/panda15963/resume)** - Resume management project
-- **[AI Image](https://github.com/panda15963/aiimage)** - AI image generation project
+- **[F1Community](https://github.com/panda15963/F1Community)** - Formula 1 community platform with modern web technologies
+- **[Resume](https://github.com/panda15963/resume)** - Interactive resume management system
+- **[AI Image](https://github.com/panda15963/aiimage)** - AI-powered image generation application
+
+### 💼 Professional Experience
+- **Frontend Developer** at **Modiem Co.** (2024.06 - 2025.03)
+  - Developed responsive UI using ReactJS & Next.js for Hyundai AutoEver project
+  - Improved page loading speed by 30% through legacy code refactoring
+- **QA Engineer** at **Modiem Co.** (2022.05 - 2024.05)
+  - Conducted comprehensive testing for vehicle navigation systems
+  - Managed bug reporting and verification using Jira system
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -83,13 +103,21 @@
 ## 🇰🇷 한국어
 
 ### 🚀 소개
-- 개발자 최민석입니다.
-- 관심 분야: 백엔드 개발, 웹 애플리케이션 개발, 데이터베이스 설계
+- **3년+ 경력의 프론트엔드 개발자 최민석**입니다
+- 🎯 **주요 경력**: 
+  - 현대오토에버 프로젝트에서 ReactJS & Next.js를 활용한 프론트엔드 개발
+  - 차량용 네비게이션 시스템(G80, GV80, 아이오닉, K시리즈) QA 자동화 업무
+  - 레거시 코드 리팩토링을 통한 페이지 로딩 속도 30% 개선 달성
+- 🌟 **핵심 강점**: 사용자 중심 개발, 문제 해결 마인드, 꼼꼼한 품질 관리
+- 🎓 **학력**: 캐나다 대학 컴퓨터사이언스과(휴학) + 방송통신대 인공지능학과 재학
+- 🌍 **글로벌 경험**: 캐나다 4년+ 유학, 비즈니스 수준 영어 소통 가능
+- 📚 **지속적 성장**: 새로운 프론트엔드 기술과 사용자 경험 개선에 지속적으로 학습
 
 ### 🌱 현재 활동
-- 🔭 현재 작업 중인 프로젝트: [F1Community](https://github.com/panda15963/F1Community)
-- 🌱 학습 중인 기술: Spring Boot, Java
-- 💬 문의사항이 있으시면 언제든 연락주세요!
+- 🔭 현재 작업 중인 프로젝트: [F1Community](https://github.com/panda15963/F1Community) - 포뮬러 1 커뮤니티 플랫폼
+- 🌱 학습 중인 기술: 고급 TypeScript, 클린 코드, 디자인 시스템
+- 🎯 목표: 사용자 경험을 최우선으로 하는 프론트엔드 개발자 되기
+- 💬 협업과 동료 개발자들과의 지식 공유를 언제나 환영합니다!
 
 ### 💻 **기술 스택**
 
@@ -121,8 +149,17 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### 🚀 주요 프로젝트
-- **[Resume](https://github.com/panda15963/resume)** - 이력서 관리 프로젝트
-- **[AI Image](https://github.com/panda15963/aiimage)** - AI 이미지 생성 프로젝트
+- **[F1Community](https://github.com/panda15963/F1Community)** - 최신 웹 기술을 활용한 포뮬러 1 커뮤니티 플랫폼
+- **[Resume](https://github.com/panda15963/resume)** - 인터랙티브 이력서 관리 시스템
+- **[AI Image](https://github.com/panda15963/aiimage)** - AI 기반 이미지 생성 애플리케이션
+
+### 💼 실무 경험
+- **㈜모디엠 프론트엔드 개발자** (2024.06 - 2025.03)
+  - 현대오토에버 프로젝트에서 ReactJS & Next.js를 활용한 반응형 UI 개발
+  - 레거시 코드 리팩토링을 통한 페이지 로딩 속도 30% 개선
+- **㈜모디엠 QA 엔지니어** (2022.05 - 2024.05)
+  - 차량용 네비게이션 시스템 종합 테스트 수행
+  - Jira 시스템을 활용한 버그 리포팅 및 검증 업무
 
 ### 📫 연락처
 - 📧 이메일: seok7521@gmail.com
