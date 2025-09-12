@@ -48,6 +48,7 @@
 #### **🗃️ Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### **🧪 Tools**
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
@@ -95,6 +96,21 @@
   - Race schedule calendar
   - User community board and comments
   - JWT authentication and deployment to personal Ubuntu server (planned)
+
+---
+
+### 📌 [Hanger](https://github.com/panda15963/Hanger)
+- **Period:** Sep 2025
+- **Description:** 🖥️ Java-based console second-hand trading application  
+  Runs in a pure terminal environment (no GUI) and provides user, product, trade, notification, and trust management features.
+- **Tech Stack:** Java 21, Maven, IntelliJ IDEA, Lombok
+- **Key Features:**
+  - 👤 **User Management**: Signup/login, role-based access (MEMBER, ADMIN), SHA-256 + Salt password storage
+  - 📝 **Post Management**: Product listing (category, price, description, condition), search & sort (latest, price), profanity filtering
+  - 🔄 **Trade Management**: Trade status updates (Pending/In-progress/Completed), category filtering
+  - 🔔 **Notifications**: Trade request/accept/decline alerts, personalized notification list
+  - ⭐ **Trust System**: Positive/negative feedback tracking, trust score calculation
+  - 💾 **Data Storage**: Snapshot save/restore via serialization (file-based, no DB)
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -149,7 +165,7 @@
 #### **🗃️ 데이터베이스**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### **🧪 도구**
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
@@ -197,6 +213,21 @@
   - 레이스 일정 캘린더 기능
   - 사용자 커뮤니티 게시판 및 댓글
   - JWT 인증, 개인 서버(Ubuntu) 배포 예정
+
+---
+
+### 📌 [Hanger](https://github.com/panda15963/Hanger)
+- **기간:** 2025.09  
+- **설명:** 🖥️ 자바 기반 콘솔 중고거래 애플리케이션  
+  GUI 없이 순수 터미널 환경에서 동작하며 회원, 상품, 거래, 알림, 신뢰도 관리 기능을 제공합니다.  
+- **기술 스택:** Java 21, Maven, IntelliJ IDEA, Lombok  
+- **주요 기능:**  
+  - 👤 **회원 관리**: 회원가입/로그인, 역할 기반 권한(MEMBER, ADMIN), SHA-256 + Salt 비밀번호 저장  
+  - 📝 **게시글 관리**: 상품 등록(카테고리, 가격, 설명, 상태), 게시글 검색 및 정렬(최신순, 가격순), 금칙어 필터링  
+  - 🔄 **거래 관리**: 거래 상태 변경(대기중/진행중/완료), 카테고리별 필터링  
+  - 🔔 **알림**: 거래 요청/수락/거절 알림, 사용자 맞춤형 알림 리스트  
+  - ⭐ **신뢰도 시스템**: 긍정/부정 평가 기록, 신뢰도 점수 계산  
+  - 💾 **데이터 저장**: 직렬화를 통한 스냅샷 저장/복원 (DB 없이 파일 기반 저장)
 
 ### 📊 깃헙 통계
 <p align="center">
